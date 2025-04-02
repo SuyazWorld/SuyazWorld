@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/407cc88f-b63f-4107-858e-98964406f6e2)<div align="center">
 <img src="https://i.pinimg.com/originals/f0/4c/ca/f04ccac8061d4adea445fd23f41c69f7.gif" align="center" height="300" width="600" />
 </div>  
   
@@ -66,7 +66,7 @@ Github : [SuyazWorld](https://github.com/SuyazWorld)
 
 
 
-### DevOps  
+### Embedded Systems  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
