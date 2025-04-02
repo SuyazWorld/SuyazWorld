@@ -7,7 +7,7 @@
   
 
 
-Electrical Engineering graduate from President University (GPA 3.83) with a passion for electronics, IoT, and automation. Experienced in reverse engineering, PCB design, and automation systems through internships at PT. Dharma Electrindo Manufacturing and PT. Jidouka Teknologi Indonesia. Continuously eager to learn and explore advancements in embedded systems and automation, with a strong curiosity about machine design and control. Highly motivated to expand expertise through real-world projects and collaborations.
+Electrical Engineering graduate from President University (GPA 3.83) with a passion for electronics, embedded systems, IoT, and automation. Experienced in reverse engineering, PCB design, and automation systems through internships at PT. Dharma Electrindo Manufacturing and PT. Jidouka Teknologi Indonesia. Continuously eager to learn and explore advancements in embedded systems and automation, with a strong curiosity about machine design and control. Highly motivated to expand expertise through real-world projects and collaborations.
   
   
 
