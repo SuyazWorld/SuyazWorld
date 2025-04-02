@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/407cc88f-b63f-4107-858e-98964406f6e2)<div align="center">
+<div align="center">
 <img src="https://i.pinimg.com/originals/f0/4c/ca/f04ccac8061d4adea445fd23f41c69f7.gif" align="center" height="300" width="600" />
 </div>  
   
 
-<h1 align="center">Hi 👋, I'm I Putu Ary Suyasa</h1> 
+### ***<ins><div align="center">Hi 👋, I'm I Putu Ary Suyasa</div></ins>***  
   
 
 
@@ -79,3 +79,11 @@ Github : [SuyazWorld](https://github.com/SuyazWorld)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SuyazWorld&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
